@@ -1,0 +1,11 @@
+C:\Users\snrkt\source\repos\CIFT ZAR ATMA\CIFT ZAR ATMA\bin\Debug\CIFT ZAR ATMA.exe.config
+C:\Users\snrkt\source\repos\CIFT ZAR ATMA\CIFT ZAR ATMA\bin\Debug\CIFT ZAR ATMA.exe
+C:\Users\snrkt\source\repos\CIFT ZAR ATMA\CIFT ZAR ATMA\bin\Debug\CIFT ZAR ATMA.pdb
+C:\Users\snrkt\source\repos\CIFT ZAR ATMA\CIFT ZAR ATMA\obj\Debug\CIFT ZAR ATMA.csproj.AssemblyReference.cache
+C:\Users\snrkt\source\repos\CIFT ZAR ATMA\CIFT ZAR ATMA\obj\Debug\CIFT ZAR ATMA.csproj.SuggestedBindingRedirects.cache
+C:\Users\snrkt\source\repos\CIFT ZAR ATMA\CIFT ZAR ATMA\obj\Debug\CIFT_ZAR_ATMA.Form1.resources
+C:\Users\snrkt\source\repos\CIFT ZAR ATMA\CIFT ZAR ATMA\obj\Debug\CIFT_ZAR_ATMA.Properties.Resources.resources
+C:\Users\snrkt\source\repos\CIFT ZAR ATMA\CIFT ZAR ATMA\obj\Debug\CIFT ZAR ATMA.csproj.GenerateResource.cache
+C:\Users\snrkt\source\repos\CIFT ZAR ATMA\CIFT ZAR ATMA\obj\Debug\CIFT ZAR ATMA.csproj.CoreCompileInputs.cache
+C:\Users\snrkt\source\repos\CIFT ZAR ATMA\CIFT ZAR ATMA\obj\Debug\CIFT ZAR ATMA.exe
+C:\Users\snrkt\source\repos\CIFT ZAR ATMA\CIFT ZAR ATMA\obj\Debug\CIFT ZAR ATMA.pdb
